@@ -1,0 +1,5 @@
+手机厂商与型号适配：
+1. 获取手机型号：
+String   model= android.os.Build.MODEL;
+2. 获取手机厂商：
+String carrier= android.os.Build.MANUFACTURER;
